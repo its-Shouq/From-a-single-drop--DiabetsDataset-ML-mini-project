@@ -58,7 +58,7 @@ The presentation follows the story:
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
--JS/HTML5/CSS3
+- JS/HTML5/CSS3
 
 **From a Single Drop to Intelligent Decisions.**
 
